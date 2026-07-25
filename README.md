@@ -177,6 +177,24 @@ By completing this project, you will gain practical experience in:
 
 ---
 
+## 📖 Learning Resource
+
+This project was created by following a YouTube tutorial for educational purposes. Credit goes to the original creator for the learning material. 
+Youtube Channel:
+- Data with Baara
+---
+
+## 🤝 Contributing
+
+This repository is primarily for learning and practice. Suggestions and improvements are always welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the **MIT License**.
